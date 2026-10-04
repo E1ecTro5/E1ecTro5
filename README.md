@@ -38,18 +38,4 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <b>IDE & Tools</b><br>
-      <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-    <td>
-      <b>Version Control</b><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
 </table>
